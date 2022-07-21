@@ -45,3 +45,7 @@ Quantity : Total Quantity of the Product being bought
 Discount : Total Discount, if any, issued on the Order
 
 Profit : Total Profit being made on the Product
+
+
+Detailed setup and instructions are provided in the below link 
+https://salmads12.wixsite.com/learning/post/tableau-for-beginners-data-visualisation-made-easy
